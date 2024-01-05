@@ -151,12 +151,28 @@ left: 0;
 }
 #banner h4{
   padding-bottom: 15px;
+  margin-left: 100px;
 }
 #banner h1{
   color: #088178;
+  margin-left: 100px;
 }
-#banner button{
+#banner h2{
+  margin-left: 100px;
+}
+#banner p{
+  margin-left: 100px;
+}
+/* #banner button{
   background-image:url("img/button.png") ;
+} */
+.shop_button{
+  padding: 7px;
+  padding-bottom: 5px;
+  border-radius: 13px;
+  background: linear-gradient(120deg, #138bd6, #70e205);
+  margin-top: 40px;
+  margin-left:100px;
 }
 
 /* Feature section */
